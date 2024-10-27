@@ -7,6 +7,8 @@ Input
 เงินเดือน - จำนวนทศนิยม
 ตำแหน่งงาน - ข้อความ
 
+โดยใช้คำสั่ง input()ในการป้อนข้อมูล
+
 Output
 {'Name': 'Alice', 'Age': 30, 'Salary': 50000.5, 'Position': 'Software Engineer'}
 
