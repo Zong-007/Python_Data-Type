@@ -20,3 +20,39 @@ employee_1["phone"] = "123-456-7890"
 จงเขียน code
 
 """
+item1 = {}
+item2 = {}
+item3 = {}
+
+name = input("Name :")
+item1["Name"] = name
+
+price = int(input("Price :"))
+item1["Age"] = price
+
+quantity = float(input("Quantity :"))
+item1["Salary"] = quantity
+
+print(item1)
+
+name = input("Name :")
+item2["Name"] = name
+
+price = int(input("Price :"))
+item2["Age"] = price
+
+quantity = float(input("Quantity :"))
+item2["Salary"] = quantity
+
+print(item2)
+
+name = input("Name :")
+item3["Name"] = name
+
+price = int(input("Price :"))
+item3["Age"] = price
+
+quantity = float(input("Quantity :"))
+item3["Salary"] = quantity
+
+print(item3)

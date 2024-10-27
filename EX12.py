@@ -19,3 +19,14 @@ employee_1["phone"] = "123-456-7890"
 จงเขียน code
 
 """
+deta = {}
+name = input("Name :")
+deta["Name"] = name
+age = int(input("Age :"))
+deta["Age"] = age
+salary = float(input("Salary :"))
+deta["Salary"] = salary
+position = input("Position :")
+deta["Position"] = position
+
+print(deta)
